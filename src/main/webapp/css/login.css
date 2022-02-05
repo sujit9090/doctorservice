@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+*{
+	margin: 0;
+	box-sizing: border-box;
+}
+html{
+	font-family: sans-serif;
+}
+header{
+	background: navy;
+	color: #fff;
+	text-align: center;
+	padding: 15px 0;
+}
+main{
+	
+	width: 30%;
+	margin: 40px auto;
+}
+h2{
+	
+	text-align: center;
+}
+.red{
+	color: deeppink;
+}
+.green{
+	color: seagreen;
+}
+.submitbtn input:hover{
+	background: blue;
+}

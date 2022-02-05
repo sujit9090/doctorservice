@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+*{
+	margin: 0;
+	box-sizing: border-box;
+}
+html{
+	font-family: sans-serif;
+}
+header{
+	background: deeppink;
+	padding: 20px 10px;
+	color: #fff;
+}
+main{
+	width: 75%;
+	margin: 30px auto;
+}
+.logout{
+	text-align: right;
+	position: relative
+}
+.logout a{
+	margin-right: 5px;
+	background:navy;
+	padding: 10px 20px;
+	text-decoration: none;
+	font-size: 1.02rem;
+	color: #fff;
+}
+.pink{
+	color: deeppink;
+}
+.green{
+	color: green;
+}
+.red{
+	color: red;
+}
+.btnblock{
+	margin-bottom: 20px;
+}
+.btnblock a{
+	text-decoration: none;
+	background: #0080c0;
+	color: #fff;
+	padding: 10px 20px;
+	border-radius: 20px;
+}

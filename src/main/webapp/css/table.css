@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+.tablesec{
+	box-shadow: 0 0 10px rgba(0,0,0,0.7);
+	border-radius: 10px;
+}
+.tablesec table{
+	width: 100%;
+}
+.tablesec table,tr,th,td{
+	border: 1px solid rgba(0,0,0,0.4);
+	border-collapse: collapse;
+}
+.tablesec th,td{
+	padding: 15px 0;
+}
+.tablesec td{
+	text-align: center;
+}
